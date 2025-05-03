@@ -224,6 +224,10 @@ body.shopping_cartactive .cartContent{
     .mainproductwrap{
         height: 90%;
     }
+
+    .cartContent{
+        width: 220px;
+    }
 }
 @media (max-width:600px){
     .productcard{
@@ -237,5 +241,6 @@ body.shopping_cartactive .cartContent{
         flex-basis: 95%;
     }
 }
+
 
 

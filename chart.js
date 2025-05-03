@@ -38,7 +38,7 @@ let product = [
         productName: 'Testy fruits  ',
         productPrice: 2500.59,
         productCurrency: 'Naria',
-        productId: 35675484949,
+        productId: 35675484944,
         productImg: 'asset/img/img3.jpg'
     },
 
@@ -75,7 +75,7 @@ let product = [
         productPrice: 4700.54,
         productCurrency: 'Naria',
         productId: 28548492344,
-        productImg: 'asset/img/dashboard2.jpg'
+        productImg: 'asset/img/dashboard2.JPG'
     },
     {
         productName: 'Testy fruits  ',
